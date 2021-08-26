@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: echo
+  namespace: enforced
+spec:
+  containers:
+    - name: echo
+      image: k8s.gcr.io/echoserver:1.4
+      imagePullPolicy: IfNotPresent
