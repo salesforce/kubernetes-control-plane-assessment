@@ -1,6 +1,6 @@
 # Kubernetes Control Plane Assessment
 
-This repository contains the report of a security assessment of the Kubernetes control plane as well as code and configuration samples. The overall idea of this repository is described in the [Salesforce Engineering Blog Post](https://engineering.salesforce.com/looking-at-the-kubernetes-control-plane-for-multi-tenancy-88914cd7aa89).
+This repository contains the [report of a security assessment of the Kubernetes control plane](https://github.com/salesforce/kubernetes-control-plane-assessment/raw/master/Atredis%20Partners-Salesforce-Kubernetes%20Control%20Plane%20Vulnerability%20Assessment-v1.1.pdf) as well as code and configuration samples. The overall idea of this repository is described in the [Salesforce Engineering Blog Post](https://engineering.salesforce.com/looking-at-the-kubernetes-control-plane-for-multi-tenancy-88914cd7aa89).
 
 # Taints & Tolerations
 
